@@ -665,6 +665,10 @@
 }
 
 @media (max-width: 600px) {
+    .menu__card {
+        max-width: 30%;
+    }
+
     .menu__title {
         font-size: 13px;
     }
