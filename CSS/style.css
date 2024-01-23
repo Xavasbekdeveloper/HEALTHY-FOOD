@@ -646,6 +646,10 @@
 }
 
 @media (max-width: 852px) {
+    .menu__card {
+        width: 210px;
+    }
+
     .menu__card__title , .menu__cards__price {
         font-size: 13px;
     }
@@ -665,9 +669,7 @@
 }
 
 @media (max-width: 600px) {
-    .menu__card {
-        max-width: 30%;
-    }
+
 
     .menu__title {
         font-size: 13px;
